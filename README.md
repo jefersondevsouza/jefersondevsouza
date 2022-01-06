@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jeferson Dev Souza 👋
 
-- 🔭 Atualmente trabalho como desenvolvedor Senior em uma software ERP.
-- 🌱 Atualmente estou aprendendo Typescript, Python 
+- 🔭 Atualmente trabalho como desenvolvedor Sênior.
+- 🌱 Atualmente estou aprendendo Typescript, Python.
 - 😁 Pronouns: ele/dele
 
 <div style="display: inline_block" align="center"><br>
