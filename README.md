@@ -1,3 +1,4 @@
+### Hi, I'm Jeferson Silveira. I'm a fan of technology, web development and music!
 ### Olá! Eu sou o Jeferson Dev Souza 👋
 
 - 🔭 Atualmente trabalho como desenvolvedor Sênior.
