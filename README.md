@@ -1,4 +1,4 @@
-### Hi, I'm Jeferson Silveira. I'm a fan of technology, software development and music!👋
+### Hi, I'm Jeferson Silveira. I'm a fan of technology, software development, movie and games!👋
 
 - 🔭 Atualmente trabalho como desenvolvedor Sênior.
 - 🌱 Atualmente estou aprendendo Typescript, Python.
