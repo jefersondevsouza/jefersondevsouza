@@ -1,6 +1,6 @@
 ### Hi, I'm Jeferson Silveira. I'm a fan of technology, software development, movie and games!👋
 
-- 🔭 Atualmente trabalho como desenvolvedor Sênior.
+- 🔭 Atualmente trabalho como desenvolvedor full stack.
 - 🌱 Atualmente estou aprendendo Typescript, Python.
 - 😁 Pronouns: ele/dele
 
